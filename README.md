@@ -1,5 +1,5 @@
 # estudo
-Meu estudo de programação
+Meu estudo de programação javascript
 
 Em JavaScript, os tipos primitivos são os tipos de dados básicos que são diretamente suportados pela linguagem e não são objetos. Existem seis tipos primitivos em JavaScript:
 
